@@ -34,4 +34,4 @@
 ### A component plot showing the seasonal effects in the stock prices.
 
 ## Conclusion
-## This project showcases how to use the Facebook Prophet model to predict future stock prices based on historical data. By following this approach, you can apply the same methodology to predict stock prices for other companies or financial data.
+### This project showcases how to use the Facebook Prophet model to predict future stock prices based on historical data. By following this approach, you can apply the same methodology to predict stock prices for other companies or financial data.
